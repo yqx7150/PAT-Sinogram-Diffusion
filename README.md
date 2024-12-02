@@ -1,5 +1,5 @@
 Ultra-sparse reconstruction for photoacoustic tomography: sinogram domain prior-guided method exploiting enhanced score-based diffusion model     
-Zilong Li~1~, Jiabin Lin~1~, Yiguang Wang, Jiahong Li, Yubin Cao, Xuan Liu, Wenbo Wan, Qiegen Liu and Xianlin Song~*~, Photoacoustics, (2024)
+Zilong Li, Jiabin Lin, Yiguang Wang, Jiahong Li, Yubin Cao, Xuan Liu, Wenbo Wan, Qiegen Liu and Xianlin Song, Photoacoustics, (2024)
 doi:https://doi.org/10.1016/j.pacs.2024.100670    
      
     
