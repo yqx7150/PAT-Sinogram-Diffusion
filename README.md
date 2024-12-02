@@ -1,8 +1,16 @@
 Ultra-sparse reconstruction for photoacoustic tomography: sinogram domain prior-guided method exploiting enhanced score-based diffusion model     
-Zilong Li, Jiabin Lin, Yiguang Wang, Jiahong Li, Yubin Cao, Xuan Liu, Wenbo Wan, Qiegen Liu and Xianlin Song, Photoacoustics, (2024)      
+Zilong Li~1~, Jiabin Lin~1~, Yiguang Wang, Jiahong Li, Yubin Cao, Xuan Liu, Wenbo Wan, Qiegen Liu and Xianlin Song~*~, Photoacoustics, (2024)
 doi:https://doi.org/10.1016/j.pacs.2024.100670    
      
     
+## The forward diffusion and reverse diffusion processes
+![image1](https://github.com/yqx7150/PAT-Sinogram-Diffusion/blob/main/1.tif)
+## The pipeline for the trainning and iterative reconstruction processes
+![image2](https://github.com/yqx7150/PAT-Sinogram-Diffusion/blob/main/2.tif)
+## Reconstruction of simulated blood vessels in the limited-view case of 80°
+![image3](https://github.com/yqx7150/PAT-Sinogram-Diffusion/blob/main/3.tif)
+
+
 ### Other Related Projects
 
 *  Accelerated model-based iterative reconstruction strategy for sparse-view photoacoustic tomography aided by multi-channel autoencoder priors  
