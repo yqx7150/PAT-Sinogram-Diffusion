@@ -8,7 +8,7 @@ doi:https://doi.org/10.1016/j.pacs.2024.100670
 ![image1](https://github.com/yqx7150/PAT-Sinogram-Diffusion/blob/main/1.png)
 ## The pipeline for the trainning and iterative reconstruction processes
 ![image2](https://github.com/yqx7150/PAT-Sinogram-Diffusion/blob/main/2.png)
-## Reconstruction of simulated blood vessels in the limited-view case of 80°
+## Reconstruction of simulated blood vessels in the sparse data of 32,64,128 detectors
 ![image3](https://github.com/yqx7150/PAT-Sinogram-Diffusion/blob/main/3.png)
 
 
