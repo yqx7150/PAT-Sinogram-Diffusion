@@ -5,11 +5,11 @@ doi:https://doi.org/10.1016/j.pacs.2024.100670
      
     
 ## The forward diffusion and reverse diffusion processes
-![image1](https://github.com/yqx7150/PAT-Sinogram-Diffusion/blob/main/1.tif)
+![image1](https://github.com/yqx7150/PAT-Sinogram-Diffusion/blob/main/1.png)
 ## The pipeline for the trainning and iterative reconstruction processes
-![image2](https://github.com/yqx7150/PAT-Sinogram-Diffusion/blob/main/2.tif)
+![image2](https://github.com/yqx7150/PAT-Sinogram-Diffusion/blob/main/2.png)
 ## Reconstruction of simulated blood vessels in the limited-view case of 80°
-![image3](https://github.com/yqx7150/PAT-Sinogram-Diffusion/blob/main/3.tif)
+![image3](https://github.com/yqx7150/PAT-Sinogram-Diffusion/blob/main/3.png)
 
 
 ### Other Related Projects
